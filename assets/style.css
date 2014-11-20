@@ -1,0 +1,19 @@
+body {
+  margin: 80px 0 0 0;
+  padding: 0;
+  font-family: Source Sans Pro;
+  background: #fafafa;
+  color: #333;
+}
+
+.card {
+  margin: 0 auto;
+  width: 70%;
+  max-width: 900px;
+  height: 500px;
+  background: #fff;
+  border-radius: 2px;
+  border: 1px solid #cacaca;
+  box-sizing: border-box;
+  padding: 40px;
+}
