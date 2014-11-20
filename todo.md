@@ -1,0 +1,4 @@
+- make read json file
+- make read google spreadsheet
+- make front/back option
+- tags?
